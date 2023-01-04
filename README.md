@@ -1,4 +1,4 @@
-## `Joel Garcia Jr - React Simple SHOP`  ⭐️ :star:
+## `Fashon Shop - reactjs`  ⭐️ :star:
 
 
 [![Working](https://media1.giphy.com/media/mGKlYbvkx32bmWDJp1/giphy.gif)](https://media1.giphy.com/media/mGKlYbvkx32bmWDJp1/giphy.gif)
